@@ -4,3 +4,7 @@ def say_foo():
 
 def say_bar():
     print('Bar')
+
+
+def say_baz():
+    print('Baz')
